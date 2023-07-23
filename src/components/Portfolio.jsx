@@ -1,4 +1,4 @@
-import { arrayDestruct, installNode, navbar, reactParallax, reactWeather, reactSmooth, useState } from "../assets";
+import { arrayDestruct, installNode, navbar, reactParallax, reactWeather, reactSmooth, useStateImg } from "../assets";
 
 const Portfolio = () => {
     const portfolios = [
@@ -24,7 +24,7 @@ const Portfolio = () => {
         },
         {
             id: 6,
-            src: useState,
+            src: useStateImg,
         },
     ];
 
