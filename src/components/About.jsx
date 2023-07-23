@@ -6,17 +6,22 @@ const About = () => {
             <div className="max-w-screen-lg p-4 mx-auto flex flex-col justify-center w-full h-full">
                 <div className="pb-8 ">
                     <p className="text-4xl font-bold inline border-b-4 border-gray-500">
-                        About
+                        About Me
                     </p>
                 </div>
 
                 <p className="text-xl mt-20 ">
-                Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eum ratione accusamus velit, sit impedit placeat possimus illo. Perspiciatis natus porro dolorem odit temporibus dolor dolorum, maiores culpa ex excepturi ducimus? Quia sit vel doloremque hic iste debitis minus sint commodi repellat laudantium deserunt exercitationem ex quibusdam, fuga cum odio necessitatibus.
+                    Hey! 👋 I'm <strong>Peeyush</strong> , a tech enthusiast who weaves code into captivating experiences. From React to AI, I've ventured into the tech realm to create a better tomorrow. 🌟
+                    <br />
+                    <br />
+                    My passion lies in shaping the future with lines of code, while my love for human connections fuels user-centric designs. 🚀
                 </p>
                 <br />
-
                 <p className="text-xl">
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolores magni cumque expedita repellat, totam, suscipit asperiores mollitia vel molestias, magnam quidem porro a esse eum! Dolores reprehenderit mollitia ratione labore, doloribus quisquam vero? Voluptatem voluptates qui minus eos, dicta ut cupiditate aperiam recusandae numquam hic, consectetur nihil itaque dolores inventore.
+                    Hackathons and open-source projects invigorate my creativity, but when I'm not coding, you'll find me with a book, coffee in hand, or humming along to my favorite tunes. 🎵☕📚
+                    <br />
+                    <br />
+                    Let's embark on this tech adventure together, solving challenges and leaving a lasting impact. Reach out, and let's make magic happen! 🌈✨
                 </p>
             </div>
         </div>
