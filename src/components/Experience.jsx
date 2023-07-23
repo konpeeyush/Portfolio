@@ -1,4 +1,4 @@
-import { html, css, github, javascript, node, react, tailwind } from '../assets';
+import { html, css, github, javascript, node, react, tailwind, mongo } from '../assets';
 const Experience = () => {
     const technologies = [
         {
@@ -39,6 +39,12 @@ const Experience = () => {
         },
         {
             id: 7,
+            src: mongo,
+            title: 'MongoDB',
+            style: 'shadow-green-500'
+        },
+        {
+            id: 8,
             src: github,
             title: 'Github',
             style: 'shadow-gray-500'

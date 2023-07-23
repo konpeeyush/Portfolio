@@ -9,13 +9,12 @@ import nextjs from './nextjs.png';
 import node from './node.png';
 import react from './react.png';
 import tailwind from './tailwind.png';
+import mongo from './mongodb.png'
 
-import arrayDestruct from './portfolio/arrayDestruct.jpg'
-import installNode from './portfolio/installNode.jpg'
-import navbar from './portfolio/navbar.jpg'
+import aiStylo from './portfolio/aiStylo.png'
+import cogniDraw from './portfolio/cogniDraw.png'
 import reactParallax from './portfolio/reactParallax.jpg'
 import reactSmooth from "./portfolio/reactSmooth.jpg";
-import reactWeather from './portfolio/reactWeather.jpg'
 import useStateImg from './portfolio/usestateImg.jpg'
 
 export {
@@ -30,13 +29,12 @@ export {
     node,
     react,
     tailwind,
+    mongo,
 
-    arrayDestruct,
-    installNode,
-    navbar,
+    aiStylo,
+    cogniDraw,
     reactParallax,
     reactSmooth,
-    reactWeather,
     useStateImg
 }
 
