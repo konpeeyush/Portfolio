@@ -16,7 +16,7 @@ import reactParallax from './portfolio/reactParallax.jpg'
 import reactSmooth from "./portfolio/reactSmooth.jpg";
 
 import reactWeather from './portfolio/reactWeather.jpg'
-import useState from './portfolio/useState.jpg'
+import useState from './portfolio/useStateImg.jpg'
 
 export {
     css,
