@@ -9,14 +9,14 @@ import nextjs from './nextjs.png';
 import node from './node.png';
 import react from './react.png';
 import tailwind from './tailwind.png';
+
 import arrayDestruct from './portfolio/arrayDestruct.jpg'
 import installNode from './portfolio/installNode.jpg'
 import navbar from './portfolio/navbar.jpg'
 import reactParallax from './portfolio/reactParallax.jpg'
 import reactSmooth from "./portfolio/reactSmooth.jpg";
-
 import reactWeather from './portfolio/reactWeather.jpg'
-import useStateImg from './portfolio/useStateImg.jpg'
+import useStateImg from './portfolio/usestateImg.jpg'
 
 export {
     css,
