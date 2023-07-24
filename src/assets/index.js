@@ -13,9 +13,7 @@ import mongo from './mongodb.png'
 
 import aiStylo from './portfolio/aiStylo.png'
 import cogniDraw from './portfolio/cogniDraw.png'
-import reactParallax from './portfolio/reactParallax.jpg'
-import reactSmooth from "./portfolio/reactSmooth.jpg";
-import useStateImg from './portfolio/usestateImg.jpg'
+import tictactoe from './portfolio/tictactoe.png'
 
 export {
     css,
@@ -33,8 +31,6 @@ export {
 
     aiStylo,
     cogniDraw,
-    reactParallax,
-    reactSmooth,
-    useStateImg
+    tictactoe,
 }
 

@@ -1,4 +1,4 @@
-import { reactParallax, reactSmooth, useStateImg, aiStylo, cogniDraw } from "../assets";
+import { aiStylo, cogniDraw, tictactoe } from "../assets";
 
 const Portfolio = () => {
     const portfolios = [
@@ -16,21 +16,9 @@ const Portfolio = () => {
         },
         {
             id: 3,
-            src: reactParallax,
-            href: "#",
-            code: "#"
-        },
-        {
-            id: 4,
-            src: reactSmooth,
-            href: "#",
-            code: "#"
-        },
-        {
-            id: 5,
-            src: useStateImg,
-            href: "#",
-            code: "#"
+            src: tictactoe,
+            href: "https://tic-tac-toe-konpeeyush.vercel.app/",
+            code: "https://github.com/konpeeyush/Tic-Tac-Toe"
         },
     ];
 
