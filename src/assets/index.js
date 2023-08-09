@@ -14,6 +14,7 @@ import mongo from './mongodb.png'
 import aiStylo from './portfolio/aiStylo.png'
 import cogniDraw from './portfolio/cogniDraw.png'
 import tictactoe from './portfolio/tictactoe.png'
+import disneyPlus from './portfolio/disneyPlus.png'
 
 export {
     css,
@@ -32,5 +33,6 @@ export {
     aiStylo,
     cogniDraw,
     tictactoe,
+    disneyPlus
 }
 

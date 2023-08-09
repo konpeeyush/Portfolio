@@ -1,21 +1,27 @@
-import { aiStylo, cogniDraw, tictactoe } from "../assets";
+import { aiStylo, cogniDraw, tictactoe, disneyPlus } from "../assets";
 
 const Portfolio = () => {
     const portfolios = [
         {
             id: 1,
+            src: disneyPlus,
+            href: "https://disney-clone-eee82.web.app/home",
+            code: "https://github.com/konpeeyush/DisneyPlus-Clone"
+        },
+        {
+            id: 2,
             src: aiStylo,
             href: "https://konpeeyush-ai-stylo-q3cv2z299-konpeeyush.vercel.app/",
             code: "https://github.com/konpeeyush/AI-Stylo"
         },
         {
-            id: 2,
+            id: 3,
             src: cogniDraw,
             href: "https://cogni-draw-frontend.vercel.app/",
             code: "https://github.com/konpeeyush/CogniDraw"
         },
         {
-            id: 3,
+            id: 4,
             src: tictactoe,
             href: "https://tic-tac-toe-konpeeyush.vercel.app/",
             code: "https://github.com/konpeeyush/Tic-Tac-Toe"
