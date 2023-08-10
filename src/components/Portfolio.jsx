@@ -5,7 +5,7 @@ const Portfolio = () => {
         {
             id: 1,
             src: disneyPlus,
-            href: "https://konpeeyush-disney-plus-clone.vercel.app/home",
+            href: "https://konpeeyush-disney-plus-clone.vercel.app/",
             code: "https://github.com/konpeeyush/DisneyPlus-Clone"
         },
         {
